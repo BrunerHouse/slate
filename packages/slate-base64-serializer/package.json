@@ -1,7 +1,7 @@
 {
   "name": "slate-base64-serializer",
   "description": "A Base64 serializer for Slate editors.",
-  "version": "0.2.98",
+  "version": "0.2.98-beanie",
   "license": "MIT",
   "repository": "git://github.com/BrunerHouse/slate.git",
   "main": "lib/slate-base64-serializer.js",

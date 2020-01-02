@@ -1,7 +1,7 @@
 {
   "name": "slate-react-placeholder",
   "description": "A Slate plugin to render a placeholder with React.",
-  "version": "0.1.16",
+  "version": "0.1.16-beanie",
   "license": "MIT",
   "repository": "git://github.com/BrunerHouse/slate.git",
   "main": "lib/slate-react-placeholder.js",
