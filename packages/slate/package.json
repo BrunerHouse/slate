@@ -1,9 +1,9 @@
 {
-  "name": "slate",
+  "name": "beanie-slate",
   "description": "A completely customizable framework for building rich text editors.",
   "version": "0.44.13",
   "license": "MIT",
-  "repository": "git://github.com/ianstormtaylor/slate.git",
+  "repository": "git://github.com/BrunerHouse/slate.git",
   "main": "lib/slate.js",
   "module": "lib/slate.es.js",
   "umd": "dist/slate.js",

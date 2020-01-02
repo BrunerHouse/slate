@@ -3,7 +3,7 @@
   "description": "A hyperscript helper for creating Slate documents.",
   "version": "0.11.28",
   "license": "MIT",
-  "repository": "git://github.com/ianstormtaylor/slate.git",
+  "repository": "git://github.com/BrunerHouse/slate.git",
   "main": "lib/slate-hyperscript.js",
   "module": "lib/slate-hyperscript.es.js",
   "umd": "dist/slate-hyperscript.js",
